@@ -1,0 +1,4 @@
+baseURL = 'http://gocanyoneering.cr/'
+languageCode = 'en-us'
+title = 'Go Canyoning Costa Rica'
+theme = 'docsy'
